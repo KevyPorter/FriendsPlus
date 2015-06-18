@@ -1,0 +1,16 @@
+[
+{
+  "modid": "friendsplusmod",
+  "name": "Friends Plus",
+  "description": "The Friends Plus mod adds new features to the Hypixel Network's current friend system.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KevyPorter"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
